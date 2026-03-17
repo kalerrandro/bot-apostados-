@@ -1,6 +1,11 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
+  <head>
+    <link rel="html" href="styles.css">
+  </head>
+  <body>
   <p> Teste pra um site futuro</p>
   <h1> Site de uma futura loja </h1>
   <h2> Nexus Craft</h2>
+  </body>
 </html>
