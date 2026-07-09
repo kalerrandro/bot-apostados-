@@ -1,1 +1,33 @@
+body{
+background:#111;
+margin:0;
+color:white;
+font-family:Arial;
+text-align:center;
+}
 
+h1{
+color:red;
+margin-top:60px;
+}
+
+.barra{
+width:80%;
+height:8px;
+background:#444;
+margin:auto;
+position:relative;
+margin-top:50px;
+}
+
+.bala{
+position:absolute;
+top:-10px;
+left:0;
+font-size:25px;
+}
+button{
+margin:15px;
+padding:15px 30px;
+font-size:20px;
+}
